@@ -1,0 +1,20 @@
+var galleryItems =[{
+    
+        "url": "images/111.jpg",
+        "caption": "Image 1 Caption"
+    },
+    {
+        "url": "images/222.jpg",
+        "caption": "Image 2 Caption"
+    },
+    {
+        "url": "images/333.jpg",
+        "caption": "Image 3 Caption"
+    },
+    {
+        "url": "images/444.jpg",
+        "caption": "Image 4 Caption"
+    }
+]
+
+var gallery =JSON.parse(galleryItems);
